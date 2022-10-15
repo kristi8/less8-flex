@@ -1,0 +1,54 @@
+.header{
+    display: flex;
+justify-content: space-between;
+    height: 109px;
+    width: 1796px;
+}
+.nav-ul{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.navigation{
+    width: 596px;
+    height: 27px;
+    margin-top: 85px;
+    margin-right: 65px;
+
+}
+
+.logo{
+  margin-left:132PX; 
+  margin-top: 64px; 
+  font-size: 32px;
+
+}
+
+.text{
+    font-size: 20px;
+}
+.section1{
+    display: flex;
+
+}
+
+.left-box{
+    width: 636px;
+    height: 550px;
+    background-color: aquamarine;
+    margin-left: 132px;
+    margin-top: 277px;
+}
+.rigt-box{
+    width:801px;
+    height: 526.63px;
+    background-color: aqua;
+    margin-left: 271px;
+    margin-top: 261px;
+    margin-right: 80px;
+    background-image: url('../images/image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
