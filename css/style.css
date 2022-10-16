@@ -94,10 +94,18 @@ justify-content: space-between;
 .icon{
    width: 100px; 
    height: 99.89px;
+   margin-bottom: 55px;
 }
 .p-text{
-    width: 328px;
-    height: 62px;
+    width: 300px;
     font-size: 16px;
     text-align: center;
+    margin-top: 12.1px;
+    color: #FFFFFF;
+    line-height: 26px;
+    
+}
+.p-text1{
+    color: #FFFFFF;
+    font-size: 22px;
 }
