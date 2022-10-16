@@ -38,7 +38,18 @@ justify-content: space-between;
     background-color: aquamarine;
     margin-left: 132px;
     margin-top: 277px;
+
 }
+.h2-left-box{
+    font-size: 78px;
+    color: #534D4D;
+    margin-bottom: 39px;
+}
+.text-left-box{
+    font-size: 22px;
+    color: #534D4D;
+}
+
 .rigt-box{
     width:801px;
     height: 526.63px;
@@ -81,6 +92,7 @@ justify-content: space-between;
 .text1{
     font-size: 18px;
     color: #747474;
+    line-height: 28px;
 }
 .child-block{
     width: 370px;
