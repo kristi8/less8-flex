@@ -62,11 +62,25 @@ justify-content: space-between;
 }
 .text-block{
     width: 712px;
-    /* height: 197px; */
-    background-color: yellow;
+
     margin: 0 auto;
     text-align: center;
     margin-top: 85px;
+
+}
+.h2{
+    font-size: 20px;
+    color: #3D37F1;
+}
+.h3{
+    font-size: 40px;
+    color: #5A5454;
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+.text1{
+    font-size: 18px;
+    color: #747474;
 }
 .child-block{
     width: 370px;
