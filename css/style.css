@@ -99,8 +99,10 @@ justify-content: space-between;
    justify-content:center;
    margin-top: 67px;
    margin-bottom: 60px;
+
    
 }
+
 .margin{
     margin-left: 29px;
     margin-right:30px ;
@@ -122,4 +124,22 @@ justify-content: space-between;
 .p-text1{
     color: #FFFFFF;
     font-size: 22px;
+}
+.child-block:nth-child(1){
+    background-color:#FBBA77;
+}
+.child-block:nth-child(2){
+    background-color:#41EAE3 ;
+}
+.child-block:nth-child(3){
+    background-color: #69529F;
+}
+.child-block2:nth-child(1){
+    background-color:#4386D2 ;
+}
+.child-block2:nth-child(2){
+    background-color:#2D2B65;
+}
+.child-block2:nth-child(3){
+    background-color:#FF8088 ;
 }
