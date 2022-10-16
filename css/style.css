@@ -51,4 +51,32 @@ justify-content: space-between;
     background-size: cover;
     background-position: center;
 }
+.block-wraper{
+    width: 1920px;
+    height: 1443.67px;
 
+    /* margin: 0 auto; */
+    background-color: #FBFCFD;
+
+
+}
+.text-block{
+    width: 712px;
+    /* height: 197px; */
+    background-color: yellow;
+    margin: 0 auto;
+    text-align: center;
+}
+.child-block{
+    width: 370px;
+    height: 451px;
+    background-color: coral;
+}
+.row-flex1{
+   display: flex; 
+   justify-content: center;
+}
+.margin{
+    margin-left: 29px;
+    margin-right:30px ;
+}
