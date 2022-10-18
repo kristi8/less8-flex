@@ -174,15 +174,21 @@ justify-content: space-between;
     width: 131px;
     height: 45px;
     border-radius: 23px;
-    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 11px;
-    border
-    
+    border: 2px solid #FFFFFF;
+
 }
 .read{
     font-size: 15px;
+    color: #FFFFFF;
     
+}
+.box1{
+    background-color: #FFFFFF;
+}
+.read1{
+    color: #4B647E;
 }
