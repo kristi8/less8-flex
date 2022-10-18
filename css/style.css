@@ -26,6 +26,7 @@ justify-content: space-between;
 
 .text{
     font-size: 20px;
+    font-family: 'Lato';
 }
 .section1{
     display: flex;
@@ -43,10 +44,13 @@ justify-content: space-between;
     font-size: 78px;
     color: #534D4D;
     margin-bottom: 39px;
+    font-family: 'Lato';
 }
 .text-left-box{
+    font-family: 'Roboto';
     font-size: 22px;
     color: #534D4D;
+    font-family: 'Lato';
 }
 .blu-box{
     width: 263.67px;
@@ -60,6 +64,7 @@ justify-content: space-between;
     
 }
 .Wave {
+    font-family: 'Poppins';
     margin-left: 30.7px;
     font-size: 23px;
     color: white;
@@ -95,10 +100,12 @@ justify-content: space-between;
 
 }
 .h2{
+    font-family: 'Lato';
     font-size: 20px;
     color: #3D37F1;
 }
 .h3{
+    font-family: 'Lato';
     font-size: 40px;
     color: #5A5454;
     margin-top: 12px;
@@ -140,6 +147,7 @@ justify-content: space-between;
    margin-bottom: 55px;
 }
 .p-text{
+    font-family: 'Roboto';
     width: 300px;
     font-size: 16px;
     text-align: center;
@@ -149,6 +157,7 @@ justify-content: space-between;
     
 }
 .p-text1{
+    font-family: 'Lato';
     color: #FFFFFF;
     font-size: 22px;
 }
@@ -182,6 +191,7 @@ justify-content: space-between;
 
 }
 .read{
+    font-family: 'Roboto';
     font-size: 15px;
     color: #FFFFFF;
     
