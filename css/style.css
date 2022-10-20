@@ -1,7 +1,10 @@
 .header{
     display: flex;
-justify-content: space-between;
-    height: 109px;
+    justify-content: space-between;
+    align-items: center;
+    
+
+
     width: 1796px;
 }
 .nav-ul{
@@ -11,23 +14,32 @@ justify-content: space-between;
 }
 .navigation{
     width: 596px;
-    height: 27px;
+    /* height: 27px; */
     margin-top: 85px;
     margin-right: 65px;
 
 }
+header a{
+    color: #3D37F1;
+    font-family: 'Lato';
+    font-weight: bold;
+
+}
 
 .logo{
-  font-family: 'Lato';
   margin-left:132PX; 
   margin-top: 64px; 
   font-size: 32px;
 
 }
-
+.span{
+    color: #4B647E;
+    font-weight: ;
+    font-family: 'Lato';
+}
 .text{
     font-size: 20px;
-    font-family: 'Lato';
+    
 }
 .section1{
     display: flex;
@@ -35,7 +47,7 @@ justify-content: space-between;
 }
 
 .left-box{
-    width: 636px;
+    width: 600px;
     height: 550px;
     margin-left: 132px;
     margin-top: 277px;
@@ -46,6 +58,7 @@ justify-content: space-between;
     color: #534D4D;
     margin-bottom: 39px;
     font-family: 'Lato';
+    font-weight: bold;
 }
 .text-left-box{
     font-family: 'Roboto';
@@ -80,14 +93,11 @@ justify-content: space-between;
     margin-right: 80px;
     background-image: url('../images/image1.png');
     background-repeat: no-repeat;
-    background-size: cover;
     background-position: center;
 }
 .block-wraper{
     width: 1920px;
     height: 1443.67px;
-
-    /* margin: 0 auto; */
     background-color: #FBFCFD;
 
 
@@ -104,18 +114,22 @@ justify-content: space-between;
     font-family: 'Lato';
     font-size: 20px;
     color: #3D37F1;
+    font-weight: bold;
 }
-.h3{
+.p3{
     font-family: 'Lato';
     font-size: 40px;
     color: #5A5454;
     margin-top: 12px;
     margin-bottom: 20px;
+    font-weight: bold;
 }
 .text1{
     font-size: 18px;
     color: #747474;
     line-height: 28px;
+    font-family: 'Roboto';
+    
 }
 .child-block{
     width: 370px;
