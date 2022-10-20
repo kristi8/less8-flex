@@ -18,6 +18,7 @@ justify-content: space-between;
 }
 
 .logo{
+  font-family: 'Lato';
   margin-left:132PX; 
   margin-top: 64px; 
   font-size: 32px;
